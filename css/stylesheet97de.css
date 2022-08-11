@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'mauerMattone150';
+	src: url('Mattone-150.html') format('woff2'),
+		url('Mattone-150.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+
+}
